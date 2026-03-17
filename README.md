@@ -6,7 +6,8 @@ SW1100TSN:
 
 
 RoboVAN solution:
-<img width="1103" height="649" alt="image" src="https://github.com/user-attachments/assets/19d84b9a-5f7d-4a6e-a416-24f824cdde38" />
+<img width="938" height="554" alt="image" src="https://github.com/user-attachments/assets/0421aa70-e38a-42ce-8b84-18f1c3971f47" />
+
 
 
 Contacts: http://www.hdn-vdo.com/ email:sales@hdn-vdo.com / phone: +86-17265076798
